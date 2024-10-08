@@ -1,7 +1,7 @@
 Leveraging Grammar Induction for Language Understanding and Generation
 ===
 
-Code for the paper [Leveraging Grammar Induction for Language Understanding and Generation].
+Code for the paper [Leveraging Grammar Induction for Language Understanding and Generation](https://arxiv.org/abs/2410.04878).
 
 This repo is build upon [fairseq toolkit](https://github.com/facebookresearch/fairseq).
 
