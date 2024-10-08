@@ -5,11 +5,11 @@ Code for the paper [Leveraging Grammar Induction for Language Understanding and 
 
 This repo is build upon [fairseq toolkit](https://github.com/facebookresearch/fairseq).
 
-<!-- ## Environment setup
+## Environment setup
 
 ```
-git clone https://github.com/0-KaiKai-0/Grammar-Induction.git
-cd Grammar-Induction
+git clone https://github.com/LUMIA-Group/Leveraging-Grammar-Induction
+cd Leveraging-Grammar-Induction
 pip install --editable ./
 ```
 
@@ -39,10 +39,13 @@ bash run-grammarformer.sh
 ## Citation
 If you find this work helpful, please cite our paper:
 ```
-@article{kai2024sh2,
-  title={SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully},
-  author={Kai, Jushi and Zhang, Tianhang and Hu, Hai and Lin, Zhouhan},
-  journal={arXiv preprint arXiv:2401.05930},
-  year={2024}
+@misc{kai2024leveraginggrammarinductionlanguage,
+      title={Leveraging Grammar Induction for Language Understanding and Generation}, 
+      author={Jushi Kai and Shengyuan Hou and Yusheng Huang and Zhouhan Lin},
+      year={2024},
+      eprint={2410.04878},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.04878}, 
 }
-``` -->
+```
